@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/googleapis/python-essential-contacts/compare/v1.0.1...v1.1.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#78](https://github.com/googleapis/python-essential-contacts/issues/78)) ([e9014c4](https://github.com/googleapis/python-essential-contacts/commit/e9014c4615aee317b3887e743ce93393675579e8))
+
 ### [1.0.1](https://www.github.com/googleapis/python-essential-contacts/compare/v1.0.0...v1.0.1) (2021-11-01)
 
 
